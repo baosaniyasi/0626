@@ -1,0 +1,6 @@
+{
+  "name": "Pet Adoption System",
+  "description": "A comprehensive full-stack pet adoption platform with user registration, login, responsive dashboard, and pet profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
